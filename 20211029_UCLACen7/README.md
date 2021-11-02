@@ -12,5 +12,7 @@ Revision code for new TMB firmware uses the Run3 convention for Run3 mode:
   - format_version = 4'h5
   - major_version = 4'h0 if run3_daq_dataformat_enable=1, otherwise 4'h1 
   - minor_version = 4'h0
+
+
 If run3_daq_dataformat_enable=0 and run2_revcode_enable=1, then revision code rolls back to Run2 legacy convention with firmware date 2016-04-14, namely 0xF08E
  
