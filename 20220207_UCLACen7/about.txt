@@ -1,0 +1,2 @@
+removed rpc and miniscope
+changes made on feb 2022 using the base code on https://github.com/csc-fw/tmb_fw_code
