@@ -10,8 +10,8 @@
 
 
 ## Updates compared to last version
-   Used register 0x1AA to control the Run3 data format:
-       - run3_trigger_dataforamt_enable
-       - run3_daq_dataforamt_enable
-       - run3_alct_dataformat_enable
-       - run2_revcode_enable
+Used register 0x1AA to control the Run3 data format:
+   - run3_trigger_dataforamt_enable
+   - run3_daq_dataforamt_enable
+   - run3_alct_dataformat_enable
+   - run2_revcode_enable
