@@ -9,7 +9,7 @@
       - if run3_daq_dataforamt_enable==0 and run2_revcode_enable==1, roll back to Run2 legacy revision code with firmware date 2016-04-14
 
 ## Firmare date and type
-This firwmare date is 2022-03-27 and it is type A firmware for all old TMB of non-ring chambers 
+This firwmare date is 2022-03-28 and it is type A firmware for all old TMB of non-ring chambers 
 
 ## Updates compared to last version
 Used register 0x1AA to control the Run3 data format:
