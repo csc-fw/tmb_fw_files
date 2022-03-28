@@ -7,6 +7,8 @@
       - major versoin[3:0] : 0x0
       - minor version[4:0] : 0x1
 
+## Firmare date and type
+This firwmare date is 2022-03-28 and it is type A firmware for all old TMB of non-ring chambers 
 
 ## Updates compared to last version
    removed some unused codes and add new revision code, partial Run3 DAQ data format and anode HMT
