@@ -16,4 +16,4 @@ Used register 0x1AA to control the Run3 data format:
    - run3_alct_dataformat_enable
    - run2_revcode_enable
 
-Add the TMB counters for anonde HMT
+Add the TMB counters for anonde HMT and fix the AFF threshold bug in old firmware
