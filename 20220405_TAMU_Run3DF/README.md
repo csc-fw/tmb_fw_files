@@ -19,4 +19,4 @@ Used register 0x1AA to control the Run3 data format:
 fixed the bug of missing MPC 
 
 ## Firmware date and type
-The date is 2022-04-03 and it is the typeA TMB firmware
+The date is 2022-04-05 and it is the typeA TMB firmware
